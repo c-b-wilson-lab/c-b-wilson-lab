@@ -27,7 +27,7 @@ courses:
 
 
 social:
-- {icon: 'fab fa-bluesky', link: 'https://bsky.app/profile/blkwiln.bsky.social'}
+- {icon: 'fa fa-bluesky', link: 'https://bsky.app/profile/blkwiln.bsky.social'}
 - {icon: 'fa fa-twitter', link: 'https://x.com/blkwiln'}
 
 contacts:
