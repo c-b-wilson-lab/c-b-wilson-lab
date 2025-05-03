@@ -27,7 +27,7 @@ courses:
 
 # <i class="fa-brands fa-bluesky"></i>
 social:
-- {icon: 'fa-brands fa-bluesky', link: 'https://bsky.app/profile/blkwiln.bsky.social'}
+- {icon: 'fa a-brands fa-bluesky', link: 'https://bsky.app/profile/blkwiln.bsky.social'}
 - {icon: 'fa fa-twitter', link: 'https://x.com/blkwiln'}
 
 contacts:
