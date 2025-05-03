@@ -15,6 +15,7 @@ people:
   phone: 'coming soon', 
   email: 'coming soon', 
   office: 'coming soon', 
+  lab: 'coming soon',
   image: 'assets/img/primary-investigator.jpg', 
   url: 'primary-investigator'
 }
