@@ -3,7 +3,7 @@ layout: page
 title: "Primary Investigator"
 ---
 
-Researcher - Physics & Astronomy
+Researcher - Chemistry
 
 Some University - 1 Main Street, Canada
 
